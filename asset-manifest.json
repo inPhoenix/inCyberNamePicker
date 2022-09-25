@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inCyberNamePicker/static/css/main.8aad5647.css",
+    "main.js": "/inCyberNamePicker/static/js/main.6b25fed0.js",
+    "index.html": "/inCyberNamePicker/index.html",
+    "main.8aad5647.css.map": "/inCyberNamePicker/static/css/main.8aad5647.css.map",
+    "main.6b25fed0.js.map": "/inCyberNamePicker/static/js/main.6b25fed0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aad5647.css",
+    "static/js/main.6b25fed0.js"
+  ]
+}
