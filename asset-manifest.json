@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/inCyberNamePicker/static/css/main.90c5702a.css",
-    "main.js": "/inCyberNamePicker/static/js/main.b9a47277.js",
+    "main.js": "/inCyberNamePicker/static/js/main.6d49892d.js",
     "index.html": "/inCyberNamePicker/index.html",
     "main.90c5702a.css.map": "/inCyberNamePicker/static/css/main.90c5702a.css.map",
-    "main.b9a47277.js.map": "/inCyberNamePicker/static/js/main.b9a47277.js.map"
+    "main.6d49892d.js.map": "/inCyberNamePicker/static/js/main.6d49892d.js.map"
   },
   "entrypoints": [
     "static/css/main.90c5702a.css",
-    "static/js/main.b9a47277.js"
+    "static/js/main.6d49892d.js"
   ]
 }
